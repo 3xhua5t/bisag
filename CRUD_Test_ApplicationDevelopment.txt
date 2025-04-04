@@ -1,0 +1,43 @@
+Date: 12-Oct-2021
+PFA. is the Simulation Activity to understand the real-time project development and its executions.
+
+All students from IT/CE have to finish all tasks to Analyze/Develop/Test this application by 16th Oct.2021.
+
+- Students are free to use any (Open Source/Visual Code) web language and database they know.
+
+Steps to be followed by All students:
+- Understand the requirements.
+- Design UI in wireframes. (Wireframe.cc | The go-to free, online wireframing tool.)
+- Create Web UI (Using any frontend tools: JavaScript/Ajax/jQuery/CSS/HTML/Bootstrap)
+- Create a Database as per the requirements.
+- Code the business logic. (Use Core/MVC Structure)
+- Design reports.
+
+Role of DBA:
+- Normalize the data tables that must include: Master Table, Transaction Table, and Log Table.
+- Design scalable data 
+- Must enter at least 20 real records.
+- Use PLSQL Query like Store Procedure, Views, Trigger, Cursor; wherever applicable.
+- Perform Unit Testing
+
+Post Development Activity:
+
+Role of QA:  
+- Perform Different Test Cases based on the above requirement.
+- Validate SRS report, Use Case, Activity Diagram, Sequence Diagram.
+- Prepare Versions of Test Phases (Unit Testing - System Testing - Acceptance Testing)
+
+Role of BA:  
+- Prepare suitable System Requirement Specifications report based on the above requirement.
+- Prepare Use-Case
+- Activity Diagram
+- Sequence Diagram
+- Identify Risk Factors (From a Hardware/Software Point of View)
+- Brainstorm the solution with Developers/QA towards the identified risk factors.  
+
+
+Unique:
+- Think and add your own unique features to the above requirements.
+
+The above activity is teamwork.  
+ 
